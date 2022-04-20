@@ -1,0 +1,41 @@
+---
+title: Hello World
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>Algorithmic Sandbox Laboratory</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/assets/css/spectre.css">
+    <link rel="stylesheet" href="/assets/css/index.css">
+
+  </head>
+
+  <body>
+    {% include "header.njk" %}
+
+    <main class="bg header-margin">
+        <div class="container">
+        <div class="columns flex-center">
+          <div class="column col-6 col-md-12 pa2">
+              {{ content | safe }}
+          </div>
+
+          <div class="column col-3 col-md-12 pa2">
+              {% include "news.njk" %}
+          </div>
+        </div>
+        </div>
+        </div>
+
+    </main>
+
+    {% include "footer.njk" %}
+
+
+
+  </body>
+</html>

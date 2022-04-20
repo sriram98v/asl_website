@@ -1,0 +1,13 @@
+{
+  "members": [
+              {
+                "name": "Oliver Eulenstein",
+                "photo": "oeulenst.jpg",
+                "info": "Ph.D.",
+                "website": "#",
+                "email": "oeulenst@iastate.edu",
+                "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam lectus."
+              }
+  ]
+}
+
