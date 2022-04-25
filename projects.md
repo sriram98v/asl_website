@@ -6,7 +6,7 @@ title: Our Team
 {%for member in projects.projects%}
 <div class="card">
 <div class="card-image float-left">
-<img src="/assets/images/projects/{{member.photo}}" class="img-responsive">
+<img src="/assets/images/projects/{{member.photo}}" class="img-w-responsive">
 </div>
 <div class="card-content">
     <div class="card-header">

@@ -360,4 +360,10 @@
 
   .gray { 
     color: #00000070;
- }
+  }
+ 
+  .img-w-responsive {
+  display: block;
+  width: auto;
+  max-width: 100%;
+}
