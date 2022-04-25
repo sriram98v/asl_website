@@ -1,0 +1,20 @@
+{
+    "pubs": [
+                {
+                  "name": "RF-Net",
+                  "portal": "ISMB",
+                  "github": "#",
+                  "link": "#",
+                  "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam lectus."
+                },
+                {
+                    "name": "RF-Net",
+                    "portal": "ISMB",
+                    "github": "#",
+                    "link": "#",
+                    "abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam lectus."
+                  }
+    ]
+  }
+  
+  
