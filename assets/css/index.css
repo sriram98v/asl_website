@@ -367,3 +367,12 @@
   width: auto;
   max-width: 100%;
 }
+
+.logo{
+    padding: 1vh 1vw;
+    flex-grow: 1;
+    width: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
