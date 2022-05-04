@@ -1,12 +1,12 @@
 {
   "members": [
               {
-                "name": "Oliver Eulenstein",
-                "photo": "oeulenst.jpg",
+                "name": "Sriram Vijendran",
+                "photo": "sriramv.jpg",
                 "info": "Ph.D.",
-                "website": "#",
-                "email": "oeulenst@iastate.edu",
-                "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam lectus."
+                "website": "https://sriram98v.github.io/cv",
+                "email": "sriramv@iastate.edu",
+                "about": "Bayesian modeling and Deep Learning"
               },
               {
                 "name": "Oliver Eulenstein",
