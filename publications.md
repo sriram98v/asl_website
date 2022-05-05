@@ -9,6 +9,9 @@ title: Our Team
     <div class="card-title h5">{{member.title}}</div>
     </div>
     <div class="card-body">
+    <p class="gray">
+    {%for author in member.author%}{{author.name}}; {%endfor%}
+    </p>
         <p class="gray">{{member.journal.name}} {{member.year}}</p>
     </div>
     <div class="card-footer">

@@ -9,7 +9,7 @@ npx @11ty/eleventy --serve
 
 Please refer the documentation for more information.
 
-## Instructions to students
+## Instructions to students/alumni
 
 All students are required to only add information to the ```_data``` directory and to not edit files in any other files in the repository. You should fill in the ```students_ms.json``` or the ```students_phd.json``` files with your information as in individual entry in the members array. You are required to add the link to your isu profile. Each entry to the json file looks like:
 
@@ -20,7 +20,7 @@ All students are required to only add information to the ```_data``` directory a
   "info": "",
   "website": "",
   "email": "",
-  "interest": "",
+  "interests": "[""]",
   "about": ""
 }
 ```

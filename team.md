@@ -19,9 +19,7 @@ title: Our Team
         {{member.about}}
     </div>
         <div class="player-tags">
-            <span class="chip">
-                {{member.interest}}
-            </span>
+            <p> Interests:{%for interest in member.interests%}<span class="chip">{{interest}}</span>{%endfor%}</p>
         </div>
     <div class="player-footer">
     <a href="{{member.website}}" class="btn btn-primary">Webpage</a>
@@ -49,9 +47,7 @@ title: Our Team
             {{member.about}}
         </div>
         <div class="player-tags">
-            <span class="chip">
-                {{member.interest}}
-            </span>
+            <p> Interests:{%for interest in member.interests%}<span class="chip">{{interest}}</span>{%endfor%}</p>
         </div>
         <div class="player-footer">
             <a href="{{member.website}}" class="btn btn-primary">Webpage</a>
@@ -78,9 +74,7 @@ title: Our Team
         {{member.about}}
     </div>
     <div class="player-tags">
-            <span class="chip">
-                {{member.interest}}
-            </span>
+            <p> Interests:{%for interest in member.interests%}<span class="chip">{{interest}}</span>{%endfor%}</p>
         </div>
     <div class="player-footer">
     <a href="{{member.website}}" class="btn btn-primary">Webpage</a>
@@ -107,9 +101,7 @@ title: Our Team
         {{member.about}}
     </div>
     <div class="player-tags">
-        <span class="chip">
-            {{member.interest}}
-        </span>
+            <p> Interests:{%for interest in member.interests%}<span class="chip">{{interest}}</span>{%endfor%}</p>
     </div>
     <div class="player-footer">
     <a href="{{member.website}}" class="btn btn-primary">Webpage</a>

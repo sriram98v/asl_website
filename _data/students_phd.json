@@ -6,7 +6,7 @@
                 "info": "Ph.D.",
                 "website": "https://sriram98v.github.io/cv",
                 "email": "sriramv@iastate.edu",
-                "interest": "Machine Learning",
+                "interests": ["Machine Learning", "Deep Learning", "Bayesian Models"],
                 "about": "Bayesian modeling and Deep Learning"
               }
   ]
