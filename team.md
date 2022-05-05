@@ -9,7 +9,7 @@ title: Our Team
 {%for member in staff.members%}
 <div class="player">
 <div class="player-image float-left">
-<img src="/assets/images/team/{{member.photo}}" class="img-player">
+        <img src="{{ '/assets/images/team/{{member.photo}}' | url }}" class="img-player">
 </div>
 <div class="player-content">
     <div class="player-header">
@@ -37,7 +37,7 @@ title: Our Team
 {%for member in students_phd.members%}
 <div class="player">
     <div class="player-image">
-        <img src="/assets/images/team/{{member.photo}}" class="img-player">
+        <img src="{{ '/assets/images/team/{{member.photo}}' | url }}" class="img-player">
     </div>
     <div class="player-content">
         <div class="player-header">
@@ -64,7 +64,7 @@ title: Our Team
 {%for member in students_ms.members%}
 <div class="player">
 <div class="player-image float-left">
-<img src="/assets/images/team/{{member.photo}}" class="img-player">
+        <img src="{{ '/assets/images/team/{{member.photo}}' | url }}" class="img-player">
 </div>
 <div class="player-content">
     <div class="player-header">
@@ -91,7 +91,7 @@ title: Our Team
 {%for member in alumni.members%}
 <div class="player">
 <div class="player-image float-left">
-<img src="/assets/images/team/{{member.photo}}" class="img-player">
+        <img src="{{ '/assets/images/team/{{member.photo}}' | url }}" class="img-player">
 </div>
 <div class="player-content">
     <div class="player-header">
