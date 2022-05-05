@@ -8,6 +8,15 @@
                 "email": "sriramv@iastate.edu",
                 "interests": ["Machine Learning", "Deep Learning", "Bayesian Models"],
                 "about": "Bayesian modeling and Deep Learning"
+              },
+              {
+                "name": "Sanket Wagle",
+                "photo": "swagle.jpeg",
+                "info": "Ph.D.",
+                "website": "",
+                "email": "swagle@iastate.edu",
+                "interests": ["Phylogenetics","Algorithms"],
+                "about": "Currently working on designing algorithms to efficiently compare phylogenetic trees and formulate new metrics to represent evolutionary processes"
               }
   ]
 }
