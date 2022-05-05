@@ -10,7 +10,6 @@ title: Our Team
     </div>
     <div class="card-body">
         <p class="gray">{{member.portal}}</p>
-        {{member.abstract}}
     </div>
     <div class="card-footer">
     <a href="{{member.link}}" class="btn btn-primary">Paper</a>

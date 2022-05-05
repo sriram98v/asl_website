@@ -6,15 +6,8 @@
                 "info": "Ph.D.",
                 "website": "https://sriram98v.github.io/cv",
                 "email": "sriramv@iastate.edu",
+                "interest": "Machine Learning",
                 "about": "Bayesian modeling and Deep Learning"
-              },
-              {
-                "name": "Oliver Eulenstein",
-                "photo": "oeulenst.jpg",
-                "info": "Ph.D.",
-                "website": "#",
-                "email": "oeulenst@iastate.edu",
-                "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam lectus."
               }
   ]
 }

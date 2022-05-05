@@ -49,6 +49,7 @@
   
   .player .player-header,
   .player .player-body,
+  .player .player-tags,
   .player .player-footer {
     padding: .8rem;
     padding-bottom: 0;
@@ -81,6 +82,12 @@
   .player .player-image:last-child img {
     border-bottom-left-radius: .1rem;
     border-bottom-right-radius: .1rem;
+  }
+  .player-image .img-player{
+      display: block;
+      height: auto;
+      max-height: 100%;
+      max-width: 150px;
   }
 
 
@@ -192,6 +199,10 @@
     position: absolute;
     top: 0;
     width: 100%;
+  }
+
+  .carousel-item .img-carousel{
+    max-width: 100%;
   }
   
   .carousel .carousel-container .carousel-item:hover .item-prev,
