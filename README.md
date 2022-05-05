@@ -51,13 +51,35 @@ You are required to upload a profile pic to the ```assets/images/projects/``` di
 
 ### Publications
 
-If you would like to list your publications on the ASL website, you can add the link to the publication and optionally on github in the ```publications.json``` in the ```_data```. Each entry to the json file looks like:
+If you would like to list your publications on the ASL website, you can add the link to the publication and optionally on github in the ```pubs.json``` in the ```_data```, which is in BibJSON format. A sample entry to the json file looks like:
 
 ```
 {
-  "name": "",
-  "portal": "",
-  "github": "",
-  "link": "",
-}
+   "type": "article",
+   "id": "markin2022rf",
+   "citekey": "markin2022rf",
+   "collection": "name",
+   "title": "RF-Net 2: fast inference of virus reassortment and hybridization networks",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Markin, Alexey"
+    },
+    {
+     "name": "Wagle, Sanket"
+    },
+    {
+     "name": "Anderson, Tavis K"
+    },
+    {
+     "name": "Eulenstein, Oliver"
+    }
+   ],
+   "journal": {
+    "name": "Bioinformatics",
+    "volume": "38",
+    "number": "8",
+    "pages": "2144--2152"
+   }
+  },
 ```

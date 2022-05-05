@@ -32,11 +32,33 @@
 </code></pre>
 <p>You are required to upload a profile pic to the <code>assets/images/projects/</code> directory as well and mention only the file name in the json entry.</p>
 <h3>Publications</h3>
-<p>If you would like to list your publications on the ASL website, you can add the link to the publication and optionally on github in the <code>publications.json</code> in the <code>_data</code>. Each entry to the json file looks like:</p>
+<p>If you would like to list your publications on the ASL website, you can add the link to the publication and optionally on github in the <code>pubs.json</code> in the <code>_data</code>, which is in BibJSON format. A sample entry to the json file looks like:</p>
 <pre><code>{
-  &quot;name&quot;: &quot;&quot;,
-  &quot;portal&quot;: &quot;&quot;,
-  &quot;github&quot;: &quot;&quot;,
-  &quot;link&quot;: &quot;&quot;,
-}
+   &quot;type&quot;: &quot;article&quot;,
+   &quot;id&quot;: &quot;markin2022rf&quot;,
+   &quot;citekey&quot;: &quot;markin2022rf&quot;,
+   &quot;collection&quot;: &quot;name&quot;,
+   &quot;title&quot;: &quot;RF-Net 2: fast inference of virus reassortment and hybridization networks&quot;,
+   &quot;year&quot;: &quot;2022&quot;,
+   &quot;author&quot;: [
+    {
+     &quot;name&quot;: &quot;Markin, Alexey&quot;
+    },
+    {
+     &quot;name&quot;: &quot;Wagle, Sanket&quot;
+    },
+    {
+     &quot;name&quot;: &quot;Anderson, Tavis K&quot;
+    },
+    {
+     &quot;name&quot;: &quot;Eulenstein, Oliver&quot;
+    }
+   ],
+   &quot;journal&quot;: {
+    &quot;name&quot;: &quot;Bioinformatics&quot;,
+    &quot;volume&quot;: &quot;38&quot;,
+    &quot;number&quot;: &quot;8&quot;,
+    &quot;pages&quot;: &quot;2144--2152&quot;
+   }
+  },
 </code></pre>
