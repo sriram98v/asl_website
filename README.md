@@ -15,12 +15,13 @@ All students are required to only add information to the ```_data``` directory a
 
 ```
 {
-    "name": "",
-    "photo": "", 
-    "info": "",
-    "website": "",
-    "email": "",
-    "about": ""
+  "name": "",
+  "photo": "",
+  "info": "",
+  "website": "",
+  "email": "",
+  "interest": "",
+  "about": ""
 }
 ```
 
@@ -58,6 +59,5 @@ If you would like to list your publications on the ASL website, you can add the 
   "portal": "",
   "github": "",
   "link": "",
-  "abstract": ""
 }
 ```
