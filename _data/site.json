@@ -1,9 +1,9 @@
 {
-    "name":"Algorithmic Sandbox Laboratory @ ISU",
+    "name":"Algorithmic Sandbox Team @ ISU",
     "pages": [
         {"name": "Home", "url": "/"},
         {"name": "Our Team", "url": "/team"},
         {"name": "Projects", "url": "/projects"},
-        {"name": "Publications", "url": "/publications"}
+        {"name": "Publications", "url": "https://scholar.google.com/citations?hl=en&tzom=300&user=EF9D28wAAAAJ"}
 	]
 }

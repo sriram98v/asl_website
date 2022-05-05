@@ -12,7 +12,7 @@ title: Our Team
     <p class="gray">
     {%for author in member.author%}{{author.name}}; {%endfor%}
     </p>
-        <p class="gray">{{member.journal.name}} {{member.year}}</p>
+        <p class="gray">{{member.journal.name}}, {{member.journal.volume}}, {{member.journal.number}}, {{member.journal.pages}}, {{member.year}}</p>
     </div>
     <div class="card-footer">
     <a href="{{member.link}}" class="btn btn-primary">Paper</a>
