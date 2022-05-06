@@ -7,8 +7,8 @@
                 "website": "https://vksriharsha.github.io/",
                 "email": "harshavk@iastate.edu",
                 "interests": ["Machine Learning", "Deep Learning", "Bayesian Models"],
-                "about": "Harsha's research area is the application of Machine Learning algorithms for genetic data. His research goal is to identify the progression of breast cancer and glioma with the help of large RNA-seq expression datasets of both marker genes and novel genes. He works on applying supervised and un-supervised machine learning techniques, as well as developing MetaOmGraph, an open source java based software package for genetic data analysis, to achieve his goal.",
-                "github": "#"
+                "about": "My research area is the application of Machine Learning for genetic data. I work on applying supervised and un-supervised machine learning techniques on RNA-seq data, as well as developing MetaOmGraph - an open source java based software package for genetic data analysis",
+                "github": "https://github.com/vksriharsha"
               }
   ]
 }
