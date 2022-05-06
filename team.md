@@ -59,7 +59,7 @@ title: Our Team
 {%endfor%}
 </div>
 
-### Masters
+### M.S
 <div>
 {%for member in students_ms.members%}
 <div class="player">
@@ -111,6 +111,7 @@ title: Our Team
 </div>
 </div>
 {%endfor%}
+</div>
 
 ## Colaborators
 <div>
@@ -131,7 +132,6 @@ title: Our Team
 </div>
 </div>
 {%endfor%}
-
 </div>
 
 
