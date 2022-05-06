@@ -19,6 +19,16 @@
                 "interests": ["Phylogenetics","Algorithms"],
                 "about": "Currently working on designing algorithms to efficiently compare phylogenetic trees and formulate new metrics to represent evolutionary processes",
                 "github":"https://github.com/swagle8987"
+              },
+              {
+                "name": "Adele Haghighat Hoseini",
+                "photo": "/assets/images/team/Adele_Photo.jpeg",
+                "info": "Ph.D.",
+                "website": "",
+                "email": "ahoseini@iastate.edu",
+                "interests": ["Machine Learning","Computational Biology","Bioinformatics"],
+                "about": "My research primarily focuses on applying a novel technique of utilizing protein structure predicted by AlphaFold for classifying influenza-A viruses by using supervised and unsupervised machine learning techniques. ",
+                "github":"#"
               }
   ]
 }
