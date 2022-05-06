@@ -2,7 +2,7 @@
   "members": [
               {
                 "name": "Sriram Vijendran",
-                "photo": "sriramv.jpg",
+                "photo": "/assets/images/team/sriramv.jpg",
                 "info": "Ph.D.",
                 "website": "https://sriram98v.github.io/cv",
                 "email": "sriramv@iastate.edu",
@@ -11,7 +11,7 @@
               },
               {
                 "name": "Sanket Wagle",
-                "photo": "swagle.jpeg",
+                "photo": "/assets/images/team/swagle.jpeg",
                 "info": "Ph.D.",
                 "website": "",
                 "email": "swagle@iastate.edu",
