@@ -1,12 +1,6 @@
 {
     "projects": [
                 {
-                  "name": "SmartHisto",
-                  "photo": "/assets/images/projects/smarthisto.jpg",
-                  "github": "#",
-                  "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam lectus."
-                },
-                {
                     "name": "MetaOmGraph",
                     "photo": "/assets/images/projects/MOG.png",
                     "github": "https://github.com/eswlab/MetaOmGraph",
