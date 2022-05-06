@@ -2,12 +2,13 @@
   "members": [
               {
                 "name": "Sriram Vijendran",
-                "photo": "/assets/images/team/sriramv.jpg",
+                "photo": "/assets/images/team/sriramv.png",
                 "info": "Ph.D.",
                 "website": "https://sriram98v.github.io/cv",
                 "email": "sriramv@iastate.edu",
                 "interests": ["Machine Learning", "Deep Learning", "Bayesian Models"],
-                "about": "Bayesian modeling and Deep Learning"
+                "about": "Bayesian modeling and Deep Learning",
+                "github":"https://github.com/sriram98v"
               },
               {
                 "name": "Sanket Wagle",
@@ -16,7 +17,8 @@
                 "website": "",
                 "email": "swagle@iastate.edu",
                 "interests": ["Phylogenetics","Algorithms"],
-                "about": "Currently working on designing algorithms to efficiently compare phylogenetic trees and formulate new metrics to represent evolutionary processes"
+                "about": "Currently working on designing algorithms to efficiently compare phylogenetic trees and formulate new metrics to represent evolutionary processes",
+                "github":"https://github.com/swagle8987"
               }
   ]
 }

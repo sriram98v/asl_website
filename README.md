@@ -21,7 +21,8 @@ All students are required to only add information to the ```_data``` directory a
   "website": "",
   "email": "",
   "interests": "[""]",
-  "about": ""
+  "about": "",
+  "github": "#"
 }
 ```
 
