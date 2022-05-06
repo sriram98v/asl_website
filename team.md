@@ -111,6 +111,27 @@ title: Our Team
 </div>
 </div>
 {%endfor%}
+
+## Colaborators
+<div>
+{%for member in colab.members%}
+<div class="player">
+<div class="player-image float-left">
+        <img src="{{ member.photo | url }}" class="img-player">
+</div>
+<div class="player-content">
+    <div class="player-header">
+    <div class="player-title h5">{{member.name}}</div>
+    </div>
+    <div class="player-body">
+    </div>
+    <div class="player-footer">
+    <a href="{{member.website}}" class="btn btn-primary">Webpage</a>
+    </div>
+</div>
+</div>
+{%endfor%}
+
 </div>
 
 

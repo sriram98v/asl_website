@@ -10,15 +10,14 @@
 .flex-between{justify-content: space-between;}
 .flex-end{justify-content: end;}
 .flex-center{justify-content: center;}
-.header-margin{margin-top: 3rem;}
+.header-margin{margin-top: 4.5rem;}
 
 @media (max-width: 840px) {
 .flex-between-md {justify-content: space-between;}
 .flex-around-md{justify-content: space-around;}
 .tc-md{text-align: center;}
-.header-margin{margin-top: 7rem;}
+.header-margin{margin-top: 8.5rem;}
 }
-
 
 
 .bg{
