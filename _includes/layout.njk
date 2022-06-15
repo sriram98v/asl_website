@@ -16,9 +16,10 @@ title: Hello World
   </head>
 
   <body>
+    <div id="particles-js"></div>
     {% include "header.njk" %}
 
-    <main class="bg header-margin">
+    <main class="header-margin">
         <div class="container">
         <div class="columns flex-center">
           <div class="column col-6 col-md-12 pa2">
@@ -34,7 +35,7 @@ title: Hello World
 
     </main>
 
-
-
+  <script src="{{ '/assets/js/particles.js' | url }}" async defer></script>
+  <script src="{{ '/assets/js/app.js' | url }}" async defer></script>
   </body>
 </html>
