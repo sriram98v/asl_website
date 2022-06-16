@@ -12,7 +12,6 @@ html,body{
   margin:0%;
   padding: 0%;
   font-size: calc(16px + (18 - 16) * ((100vw - 300px) / (1600 - 300)));
-  overflow: hidden; /* Hide scrollbars */
 }
 
 .pa1 {padding: 0.5rem;}
@@ -31,6 +30,8 @@ html,body{
 .flex-end{justify-content: end;}
 .flex-center{justify-content: center;}
 .header-margin{margin-top: 4rem;}
+
+
 h1,
 h2,
 h3,
