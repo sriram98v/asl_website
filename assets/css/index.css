@@ -12,6 +12,7 @@ html,body{
   margin:0%;
   padding: 0%;
   font-size: calc(16px + (18 - 16) * ((100vw - 300px) / (1600 - 300)));
+  overflow: hidden; /* Hide scrollbars */
 }
 
 .pa1 {padding: 0.5rem;}
@@ -90,6 +91,9 @@ h6,
 .header-margin{margin-top: 8.5rem;}
 }
 
+.blur-bg{
+  backdrop-filter: blur(4px);
+}
 
 .bg-white{
   background-color: #fff;
