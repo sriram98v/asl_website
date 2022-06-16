@@ -1,8 +1,8 @@
-<nav class="navbar">
+<nav class="navbar pa1">
       <div class="container">
         <div class="columns flex-between-md">
-        <section class="column col-md-12 col-lg-6 flex flex-around-md pa1">
-        <svg version="1.1" viewBox="0.0 0.0 510.0 503.0" width="81" height="81" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+        <section class="column col-md-12 col-lg-6 flex flex-around-md">
+        <svg version="1.1" viewBox="0.0 0.0 510.0 503.0" width="90" height="90" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
         <clipPath id="p.0">
         <path d="m0 0l510.0 0l0 503.0l-510.0 0l0 -503.0z" clip-rule="nonzero"/>
         </clipPath>
@@ -40,7 +40,7 @@
         </section>
         <section class="column col-md-12 col-lg-6 flex flex-end flex-between-md pa1">
             {% for item in site.pages %}
-                <a href="{{ item.url | url }}" class="btn btn-link">{{ item.name }}</a>
+                <a href="{{ item.url | url }}" class="btn btn-link pt1 h4">{{ item.name }}</a>
             {% endfor %}
         </section>
         </div>

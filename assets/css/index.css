@@ -14,12 +14,14 @@ html,body{
   font-size: calc(16px + (18 - 16) * ((100vw - 300px) / (1600 - 300)));
 }
 
-.pa1 {padding: 1rem;}
+.pa1 {padding: 0.5rem;}
 .pa2 {padding: 2rem;}
+.ma1{margin: 1rem;}
 .pl1 {padding-left: 1rem;}
 .pl2 {padding-left: 2rem;}
 .pr1 {padding-right: 1rem;}
 .pr2 {padding-right: 2rem;}
+.pt1 {padding-top: 1rem;}
 .title{font-size: 1.33rem;}
 .flex {display: flex;}
 .flex-around{justify-content: space-around;}
@@ -27,6 +29,7 @@ html,body{
 .flex-end{justify-content: end;}
 .flex-center{justify-content: center;}
 .header-margin{margin-top: 4rem;}
+.h4{ font-size: 1rem;}
 
 
 @media (max-width: 840px) {
