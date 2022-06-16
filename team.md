@@ -13,7 +13,7 @@ title: Our Team
 </div>
 <div class="player-content">
     <div class="player-header">
-    <div class="player-title h5">{{member.name}}</div>
+    <div class="player-title h3">{{member.name}}</div>
     </div>
     <div class="player-body">
         {{member.about}}
@@ -41,7 +41,7 @@ title: Our Team
     </div>
     <div class="player-content">
         <div class="player-header">
-            <div class="player-title h5">{{member.name}}</div>
+            <div class="player-title h3">{{member.name}}</div>
         </div>
         <div class="player-body">
             {{member.about}}
@@ -68,7 +68,7 @@ title: Our Team
 </div>
 <div class="player-content">
     <div class="player-header">
-    <div class="player-title h5">{{member.name}}</div>
+    <div class="player-title h3">{{member.name}}</div>
     </div>
     <div class="player-body">
         {{member.about}}
@@ -95,7 +95,7 @@ title: Our Team
 </div>
 <div class="player-content">
     <div class="player-header">
-    <div class="player-title h5">{{member.name}}</div>
+    <div class="player-title h3">{{member.name}}</div>
     </div>
     <div class="player-body">
         {{member.about}}
@@ -122,7 +122,7 @@ title: Our Team
 </div>
 <div class="player-content">
     <div class="player-header">
-    <div class="player-title h5">{{member.name}}</div>
+    <div class="player-title h3">{{member.name}}</div>
     </div>
     <div class="player-body">
     </div>

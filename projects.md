@@ -10,7 +10,7 @@ title: Our Team
 </div>
 <div class="card-content">
     <div class="card-header">
-    <div class="card-title h5">{{member.name}}</div>
+    <div class="card-title h3">{{member.name}}</div>
     </div>
     <div class="card-body">
         {{member.about}}
